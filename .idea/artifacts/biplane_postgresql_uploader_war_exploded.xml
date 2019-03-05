@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="biplane_postgresql_uploader:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/biplane_postgresql_uploader_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="biplane_postgresql_uploader/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="biplane_postgresql_uploader" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

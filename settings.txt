@@ -1,0 +1,25 @@
+#Main settigs for biplane postgresql uploader.
+#Mon Feb 25 17:42:14 MSK 2019
+hibernate.connection.password=123456
+hbm2ddl_auto=update
+analyticr6=Виды номенклатуры
+analyticr5=Виды запасов
+analyticr4=Склады
+analyticr3=Резервы
+analyticr2=Пользователи
+analyticr1=Организации
+hibernate.show_sql=true
+﻿\#Main=settigs for biplane postgresql uploader.
+separator_csv_field_type=\#TYPEOF\#
+analytic6=vidi_nomenklaturi
+bad_symbols_replace_oldnew=\ _
+hibernate.connection.username=multiuser
+analytic5=vidi_zapasov
+analytic4=skladi
+analytic3=rezervi
+analytic2=polzovateli
+separator_csv=|
+analytic1=organizatsii
+hibernate.connection.driver_class=org.postgresql.Driver
+hibernate.connection.url=jdbc\:postgresql\://localhost\:5432/biplane
+connection.autocommit=true

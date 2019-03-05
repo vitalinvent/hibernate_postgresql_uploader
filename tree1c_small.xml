@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_181" class="java.beans.XMLDecoder">
+	<object class="java.util.ArrayList">
+		<void method="add">
+			<object class="brigadi">
+				<void property="guid">
+					<string>9d42840a-1fd0-11e9-94bb-a45d36c85b64</string>
+				</void>
+				<void property="eto_gruppa">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>бригада1</string>
+				</void>
+				<void property="organizatsija" islink="dic" link="organizatsii">
+					<string>8113342e-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="primenjat_raspredelenie_po_k_t_u">
+					<string>false</string>
+				</void>
+				<void property="podrazdelenie">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="brigadi">
+				<void property="guid">
+					<string>9d42840b-1fd0-11e9-94bb-a45d36c85b64</string>
+				</void>
+				<void property="eto_gruppa">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>бригада2</string>
+				</void>
+				<void property="organizatsija" islink="dic" link="organizatsii">
+					<string>8113342e-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="primenjat_raspredelenie_po_k_t_u">
+					<string>false</string>
+				</void>
+				<void property="podrazdelenie">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="brigadi">
+				<void property="guid">
+					<string>9d42840c-1fd0-11e9-94bb-a45d36c85b64</string>
+				</void>
+				<void property="eto_gruppa">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>бригада3</string>
+				</void>
+				<void property="organizatsija" islink="dic" link="organizatsii">
+					<string>b4a5d4a1-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="primenjat_raspredelenie_po_k_t_u">
+					<string>false</string>
+				</void>
+				<void property="podrazdelenie">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="brigadi">
+				<void property="guid">
+					<string>9d42840d-1fd0-11e9-94bb-a45d36c85b64</string>
+				</void>
+				<void property="eto_gruppa">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>бригада2</string>
+				</void>
+				<void property="organizatsija" islink="dic" link="organizatsii">
+					<string>45ea398f-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="primenjat_raspredelenie_po_k_t_u">
+					<string>false</string>
+				</void>
+				<void property="podrazdelenie">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="organizatsii">
+				<void property="guid">
+					<string>99cddf3f-1642-11e8-bf55-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>управленческая организация</string>
+				</void>
+				<void property="grafik_raboti">
+					<string/>
+				</void>
+				<void property="voenkomat">
+					<string/>
+				</void>
+				<void property="vid_obmena_s_kontroliruyushchimi_organami">
+					<string/>
+				</void>
+				<void property="golovnaja_organizatsija">
+					<string/>
+				</void>
+				<void property="i_n_n">
+					<string/>
+				</void>
+				<void property="data_registratsii">
+					<string>0001-01-01t00:00:00</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="organizatsii">
+				<void property="guid">
+					<string>45ea398f-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>мебельпромторг ооо</string>
+				</void>
+				<void property="grafik_raboti">
+					<string/>
+				</void>
+				<void property="voenkomat">
+					<string/>
+				</void>
+				<void property="vid_obmena_s_kontroliruyushchimi_organami">
+					<string/>
+				</void>
+				<void property="golovnaja_organizatsija">
+					<string>45ea398f-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="i_n_n">
+					<string>7805454070</string>
+				</void>
+				<void property="data_registratsii">
+					<string>0001-01-01t00:00:00</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="organizatsii">
+				<void property="guid">
+					<string>8113342e-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>запчасть ооо</string>
+				</void>
+				<void property="grafik_raboti">
+					<string/>
+				</void>
+				<void property="voenkomat">
+					<string/>
+				</void>
+				<void property="vid_obmena_s_kontroliruyushchimi_organami">
+					<string/>
+				</void>
+				<void property="golovnaja_organizatsija">
+					<string>8113342e-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="i_n_n">
+					<string>6658399762</string>
+				</void>
+				<void property="data_registratsii">
+					<string>0001-01-01t00:00:00</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="organizatsii">
+				<void property="guid">
+					<string>b4a5d4a1-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>юров а.а. ип</string>
+				</void>
+				<void property="grafik_raboti">
+					<string/>
+				</void>
+				<void property="voenkomat">
+					<string/>
+				</void>
+				<void property="vid_obmena_s_kontroliruyushchimi_organami">
+					<string/>
+				</void>
+				<void property="golovnaja_organizatsija">
+					<string>b4a5d4a1-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="i_n_n">
+					<string>667400720770</string>
+				</void>
+				<void property="data_registratsii">
+					<string>0001-01-01t00:00:00</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>d869b5b1-1666-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000001</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>администрация</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>e21c8f1e-1666-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000002</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>производство и торговля мебелью</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>e8ebf42e-1666-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000003</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>розничная сеть запчастей</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>e8ebf42f-1666-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000004</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>сервисная служба</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>fe365d1d-1666-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000005</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>отдел продаж корпусной мебели</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>fe365d1e-1666-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000006</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>отдел продаж мягкой мебели</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000007</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>цех</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>true</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>0f8c2537-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000008</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>дирекция</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>0f8c2538-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000009</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>бухгалтерия</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>15980e02-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000010</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>ит-отдел</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>15980e03-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000011</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>фэо</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="struktura_predprijatija">
+				<void property="guid">
+					<string>1c062932-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-000012</string>
+				</void>
+				<void property="sootvetstvuet_strukture_yuridicheskih_lits">
+					<string>false</string>
+				</void>
+				<void property="naimenovanie">
+					<string>ахо</string>
+				</void>
+				<void property="tekushchiy_rukovoditel">
+					<string/>
+				</void>
+				<void property="variant_obosoblennogo_ucheta_tovarov">
+					<string>неведется</string>
+				</void>
+				<void property="proizvodstvennoe_podrazdelenie">
+					<string>false</string>
+				</void>
+				<void property="istochnik">
+					<string/>
+				</void>
+			</object>
+		</void>
+	</object>
+</java>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="entities.Employee" table="Employee">
+        <id name="id" column="id">
+            <generator class="identity"></generator>
+        </id>
+        <property name="grossIncome" column="grossIncome"></property>
+        <property name="taxInPercents" column="taxInPercents"></property>
+    </class>
+</hibernate-mapping>

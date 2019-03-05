@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_181" class="java.beans.XMLDecoder">
+	<object class="java.util.ArrayList">
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>be01da96-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>диван; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>be01da97-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>кресло; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>be01da98-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>стол кухонный; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>be01da99-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>стул; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>be01da9a-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>шкаф-купе; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>efc9800e-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>доска; материальный склад</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>cceaf801-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>efc9800f-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>обивка; материальный склад</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>cceaf801-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>efc98010-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>ткань; материальный склад</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>cceaf801-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>efc98011-166a-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>фурнитура; материальный склад</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>cceaf801-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>1d893b6b-166b-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>лампа; магазин №1</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>ea67e763-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>1d893b6c-166b-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>масло моторное; магазин №1</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>ea67e763-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>1d893b6d-166b-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>набор свечей зажигания; магазин №1</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>ea67e763-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>1d893b6e-166b-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>шины легковые; магазин №1</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>ea67e763-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>50bc0c1f-166b-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>расходные материалы; склад сервисной службы</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>faef4ea3-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>64d394bc-166b-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>канцтовары; склад заводоуправления</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>04634e6e-1668-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>72914329-172d-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>диван; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>88a89c8f-172d-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>диван; </string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>88a89c90-172d-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>доска; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>88a89c91-172d-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>обивка; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>88a89c92-172d-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>фурнитура; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>88a89c93-172d-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>ткань; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>7d949983-172e-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>кресло; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>83ff524c-172e-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>кресло; </string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>36fae339-1731-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>стол кухонный; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>36fae33a-1731-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>стул; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>36fae33b-1731-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>стол кухонный; </string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>36fae33d-1731-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>стул; </string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>4a33e626-1731-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>шкаф-купе; цех</string>
+				</void>
+				<void property="sklad" islink="dic" link="struktura_predprijatija">
+					<string>08ce0842-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>4a33e629-1731-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>шкаф-купе; </string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string/>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>2c5d5a2b-19fa-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>лампа; магазин №2</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>f12fc8b6-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>2c5d5a2c-19fa-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>масло моторное; магазин №2</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>f12fc8b6-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>2c5d5a2d-19fa-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>набор свечей зажигания; магазин №2</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>f12fc8b6-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>2c5d5a2e-19fa-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>шины легковые; магазин №2</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>f12fc8b6-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>0f0a0e05-1a02-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>услуги оценщика; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>1ade0169-1a02-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>услуги ремонтника; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="klyuchi_analitiki_ucheta_nomenklaturi">
+				<void property="guid">
+					<string>27ffbdb2-1a02-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="naimenovanie">
+					<string>услуги консалтинга; склад готовой продукции</string>
+				</void>
+				<void property="sklad" islink="dic" link="skladi">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>a9183376-1642-11e8-bf55-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>ут-00000001</string>
+				</void>
+				<void property="naimenovanie">
+					<string>наше предприятие</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>a9183377-1642-11e8-bf55-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>ут-00000003</string>
+				</void>
+				<void property="naimenovanie">
+					<string>неизвестный партнер</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>a9183378-1642-11e8-bf55-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>ут-00000002</string>
+				</void>
+				<void property="naimenovanie">
+					<string>розничный покупатель</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>229de7c0-166c-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-00000001</string>
+				</void>
+				<void property="naimenovanie">
+					<string>магазин  мягкой мебели</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>3de69017-166c-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-00000002</string>
+				</void>
+				<void property="naimenovanie">
+					<string>мебельный магазин</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>58b40148-166c-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-00000003</string>
+				</void>
+				<void property="naimenovanie">
+					<string>поставщик стройматериалов</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>66d6d3d5-166c-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-00000004</string>
+				</void>
+				<void property="naimenovanie">
+					<string>поставщик запчастей</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>c7f15afd-1a04-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-00000005</string>
+				</void>
+				<void property="naimenovanie">
+					<string>арендодатель магазинов</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>3ae30af3-208c-11e8-bf58-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-00000006</string>
+				</void>
+				<void property="naimenovanie">
+					<string>банк</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="partneri">
+				<void property="guid">
+					<string>a1a09296-2614-11e8-bf58-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>00-00000007</string>
+				</void>
+				<void property="naimenovanie">
+					<string>альтернативный мебельный магазин</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="podrazdelenija_organizatsiy">
+				<void property="guid">
+					<string>093a0b70-292d-11e8-bf5b-6c71d9a36bc0</string>
+				</void>
+				<void property="kod">
+					<string>0000-0001</string>
+				</void>
+				<void property="naimenovanie">
+					<string>производство</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>c1f9d2c8-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>true</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>производство и торговля</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>cceaf801-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>false</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>материальный склад</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>d8e50906-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>false</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>склад готовой продукции</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>e01ea626-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>true</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>розничная сеть</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>ea67e763-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>false</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>магазин №1</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>f12fc8b6-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>false</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>магазин №2</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>faef4ea3-1667-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>false</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>склад сервисной службы</string>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="skladi">
+				<void property="guid">
+					<string>04634e6e-1668-11e8-bf56-6c71d9a36bc0</string>
+				</void>
+				<void property="eto_gruppa">
+					<boolean>false</boolean>
+				</void>
+				<void property="naimenovanie">
+					<string>склад заводоуправления</string>
+				</void>
+			</object>
+		</void>
+	</object>
+</java>

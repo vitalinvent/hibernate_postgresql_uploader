@@ -1,0 +1,27 @@
+2019-02-22 22:27:25 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-02-22 22:27:31 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:31 WARN  SqlExceptionHelper:231 - идентификатор "udalit_stroka_otchetnosti_monitoringa_rabotnikov_sotsialnoy_sferi" будет усечён до "udalit_stroka_otchetnosti_monitoringa_rabotnikov_sotsialnoy_sfe"
+2019-02-22 22:27:31 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:31 WARN  SqlExceptionHelper:231 - идентификатор "udalit_protsent_severnoy_nadbavki_fizicheskogo_litsa_izmenjaetsja" будет усечён до "udalit_protsent_severnoy_nadbavki_fizicheskogo_litsa_izmenjaets"
+2019-02-22 22:27:32 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:32 WARN  SqlExceptionHelper:231 - идентификатор "sootvetstvuet_sudam_zaregistrirovannim_v_rossiyskom_mezhdunarodnom_reestre_sudov" будет усечён до "sootvetstvuet_sudam_zaregistrirovannim_v_rossiyskom_mezhdunarod"
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:231 - идентификатор "stroki_otchetnosti_rashodov_i_chislennosti_rabotnikov_gosudarstvennih_organov" будет усечён до "stroki_otchetnosti_rashodov_i_chislennosti_rabotnikov_gosudarst"
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:231 - идентификатор "zapolnenie_dostupnosti_dlja_grafika_proizvodstva_kolichestvo_intervalov" будет усечён до "zapolnenie_dostupnosti_dlja_grafika_proizvodstva_kolichestvo_in"
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:231 - идентификатор "zapolnenie_dostupnosti_dlja_grafika_proizvodstva_napominanie_dney" будет усечён до "zapolnenie_dostupnosti_dlja_grafika_proizvodstva_napominanie_dn"
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:231 - идентификатор "zapolnenie_dostupnosti_dlja_raspisanija_r_ts_kolichestvo_intervalov" будет усечён до "zapolnenie_dostupnosti_dlja_raspisanija_r_ts_kolichestvo_interv"
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:231 - идентификатор "ispolzovat_zashchishchennoe_soedinenie_dlja_ishodjashchey_pochti" будет усечён до "ispolzovat_zashchishchennoe_soedinenie_dlja_ishodjashchey_pocht"
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:231 - идентификатор "vipolnennie_raboti_raspredeljayutsja_s_uchetom_otrabotannogo_vremeni" будет усечён до "vipolnennie_raboti_raspredeljayutsja_s_uchetom_otrabotannogo_vr"
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:33 WARN  SqlExceptionHelper:231 - идентификатор "zapret_redaktirovanija_naimenovanija_dlja_pechati_harakteristiki" будет усечён до "zapret_redaktirovanija_naimenovanija_dlja_pechati_harakteristik"
+2019-02-22 22:27:34 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 42622
+2019-02-22 22:27:34 WARN  SqlExceptionHelper:231 - идентификатор "udalit_stroka_otchetnosti_monitoringa_rabotnikov_sotsialnoy_sferi" будет усечён до "udalit_stroka_otchetnosti_monitoringa_rabotnikov_sotsialnoy_sfe"
+2019-02-25 13:57:05 ERROR DynamicCompilerLoader:75 - Error on line 10 in file:/C:/dev/java/biplane_postgresql_uploader/biplane_postgresql_uploader/UPLOADER/objects/marzhinalniy%20dohod.java
+ C:\dev\java\biplane_postgresql_uploader\biplane_postgresql_uploader\UPLOADER\objects\marzhinalniy dohod.java:10: error: '{' expected
+public class marzhinalniy dohod implements Serializable {
+                         ^

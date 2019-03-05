@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+   <class name = "strani_mira" table = "strani_mira">
+      <id name = "id" column = "guid"/>      
+      <property name = "kod" column = "kod" type = "string"/>
+      <property name = "kod_alfa2" column = "kod_alfa2" type = "string"/>
+      <property name = "kod_alfa3" column = "salary" type = "string"/>
+      <property name = "naimenovanie" column = "naimenovanie" type = "string"/>
+      <property name = "naimenovanie_polnoe" column = "naimenovanie_polnoe" type = "string"/>
+      <property name = "uchastnik_e_a_e_s" column = "uchastnik_e_a_e_s" type = "boolean"/>
+   </class>
+</hibernate-mapping>

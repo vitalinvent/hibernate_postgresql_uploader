@@ -1,0 +1,12 @@
+#Main settigs for biplane postgresql uploader.
+#Mon Feb 25 13:55:42 MSK 2019
+hbm2ddl_auto=update
+hibernate.connection.driver_class=org.postgresql.Driver
+separator_csv_field_type=\#TYPEOF\#
+connection.autocommit=true
+separator_csv=|
+hibernate.connection.username=multiuser
+hibernate.connection.url=jdbc\:postgresql\://localhost\:5432/biplane
+﻿\#Main=settigs for biplane postgresql uploader.
+hibernate.connection.password=123456
+hibernate.show_sql=true

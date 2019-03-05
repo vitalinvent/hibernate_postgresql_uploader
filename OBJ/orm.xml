@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entity-mappings
+        xmlns="http://java.sun.com/xml/ns/persistence/orm"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/persistence/orm
+        http://java.sun.com/xml/ns/persistence/orm_2_0.xsd"
+        version="2.0">
+    <!--guid uuid NOT NULL,-->
+    <!--kod text COLLATE pg_catalog."default",-->
+    <!--kod_alfa2 text COLLATE pg_catalog."default",-->
+    <!--kod_alfa3 text COLLATE pg_catalog."default",-->
+    <!--naimenovanie text COLLATE pg_catalog."default",-->
+    <!--naimenovanie_polnoe text COLLATE pg_catalog."default",-->
+    <!--uchastnik_e_a_e_s boolean,-->
+
+    <entity class="strani_mira" access="FIELD" name="strani_mira">
+        <table name="strani_mira"/>
+        <attributes>
+            <id name="guid"/>
+            <basic name="kod"/>
+            <basic name="kod_alfa2"/>
+            <basic name="kod_alfa3"/>
+            <basic name="naimenovanie"/>
+            <basic name="naimenovanie_polnoe"/>
+            <basic name="uchastnik_e_a_e_s"/>
+        </attributes>
+    </entity>
+
+</entity-mappings>
